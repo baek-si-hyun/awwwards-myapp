@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/awwwards-myapp/static/css/main.361a3269.css",
-    "main.js": "/awwwards-myapp/static/js/main.8bf99756.js",
+    "main.js": "/awwwards-myapp/static/js/main.c893297b.js",
     "static/media/projectnetflix1.jpg": "/awwwards-myapp/static/media/projectnetflix1.acff8fda7db1fd39b9b6.jpg",
     "static/media/projectnetflix2.jpg": "/awwwards-myapp/static/media/projectnetflix2.a62a9a244f045b4166fb.jpg",
     "static/media/projectmyapp3.jpg": "/awwwards-myapp/static/media/projectmyapp3.08fbff993725efb92ac6.jpg",
@@ -53,10 +53,10 @@
     "static/media/upbiticon.png": "/awwwards-myapp/static/media/upbiticon.4064bc4102e646afee38.png",
     "index.html": "/awwwards-myapp/index.html",
     "main.361a3269.css.map": "/awwwards-myapp/static/css/main.361a3269.css.map",
-    "main.8bf99756.js.map": "/awwwards-myapp/static/js/main.8bf99756.js.map"
+    "main.c893297b.js.map": "/awwwards-myapp/static/js/main.c893297b.js.map"
   },
   "entrypoints": [
     "static/css/main.361a3269.css",
-    "static/js/main.8bf99756.js"
+    "static/js/main.c893297b.js"
   ]
 }
