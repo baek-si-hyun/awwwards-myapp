@@ -36,7 +36,7 @@ function App() {
       <BrowserRouter>
         <ScrollToTop />
         <Routes>
-          <Route path="/awwwards-my-app" element={<Main />} />
+          <Route path="/awwwards-myapp" element={<Main />} />
           <Route path="/Netflix" element={<Netflix />} />
           <Route path="/Kanban" element={<Kanban />} />
           <Route path="/Coin" element={<Coin />} />
